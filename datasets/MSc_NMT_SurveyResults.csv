@@ -1,0 +1,212 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q0,Q1_1,Q2_1,Q3_1,Q4_1,Q5_1,Q6_1,Q7_1,Q8_1,Q9_1,Q10_1,Q11_1,Q12_1,Q13_1,Q14_1,Q15_1
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"By answering yes to the below question and proceeding to the survey you confirm that you consent to take part in survey in accordance with the following conditions:
+
+ 
+
+1. I have read the information above which details what this study is about.
+
+2. My questions about the study have been answered to my satisfaction and I understand that I may ask further questions at any point.
+
+3. I understand that I am free to withdraw from the study within the time limits outlined in the information above, without giving a reason for my withdrawal or to decline to answer any particular questions in the study without any consequences to my future treatment by the researcher.  
+
+4. I agree to provide information to the researchers under the conditions of confidentiality set out in the information above
+
+5. I wish to participate in the study under the conditions set out in the information above.
+
+6. I consent to the information collected for the purposes of this research study, once anonymised (so that I cannot be identified), to be used for any other research purposes. 
+ 
+
+Thank you very much in advance. 
+ 
+
+I wish to participate in the survey:","Read the text below and rate it by how much you agree that: The text is fluent Mandarin Chinese.
+
+
+ 苹果掉落的地方不会离树干很远。","Read the text below and rate it by how much you agree that: The text is fluent Mandarin Chinese.
+
+
+ 
+
+   会出现什么情况呢？","Read the text below and rate it by how much you agree that: The text is fluent Mandarin Chinese.
+
+
+ 
+
+   天气预报说明天会下雪。","Read the text below and rate it by how much you agree that: The output sentence accurately translates the input sentence.
+
+
+
+
+ 
+
+Input: I want to know why Tom wants us to do that.
+
+ 
+
+Output: 我想知道汤姆为什么要帮我们那样做。","Read the text below and rate it by how much you agree that: The output sentence accurately translates the input sentence.
+
+
+
+
+ 
+
+Input: Which book is yours?
+
+ 
+
+Output:  哪本是你们的书？","Read the text below and rate it by how much you agree that: The output sentence accurately translates the input sentence.
+
+
+
+
+ 
+
+Input: Come in, the door's open.
+
+ 
+
+Output:  进来，门开着。","Read the text below and rate it by how much you agree that: The context of output sentence B is close to the expected sentence A.
+
+
+  
+
+ 
+
+A:  这才是重点。
+
+ 
+
+B:  这是今天的情况 。","Read the text below and rate it by how much you agree that: The context of output sentence B is close to the expected sentence A.
+
+
+  
+
+ 
+
+A:  我试着不去想了。
+
+ 
+
+B:  我不想那样想。","Read the text below and rate it by how much you agree that: The context of output sentence B is close to the expected sentence A.
+
+
+  
+
+ 
+
+A:  我早上会在家。
+
+ 
+
+B:  我明天早上在家。","Read the text below and rate it by how much you agree that: The quality of the translation B closely matches A.
+
+
+  
+
+ 
+
+A:  我们给大家看一段视频。
+
+ 
+
+B:  我们一起给你看一个视频。","Read the text below and rate it by how much you agree that: The output sentence accurately translates the input.
+
+
+
+
+ 
+
+Input: This is the office in which he works.
+
+ 
+
+Output:  那是他工作的办公室。","Read the text below and rate it by how much you agree that: The quality of the translation B closely matches A.
+
+
+  
+
+ 
+
+A:  他放学后打棒球。
+
+ 
+
+B:  他放学后打棒球。","Read the text below and rate it by how much you agree that: The quality of the translation B closely matches A.
+
+
+  
+
+ 
+
+A:  我得顺便给你讲件事。
+
+ 
+
+B:  某种程度上，我要告诉你。","Read the text below and rate it by how much you agree that: The output sentence accurately translates the input.
+
+
+
+
+ 
+
+Input: He lived abroad for much of his life.
+
+ 
+
+Output:  他居住在国外多年。","Read the text below and rate it by how much you agree that: The text is fluent Mandarin Chinese.
+
+
+ 
+
+   他强调了城市生活方便的一面。"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID31""}","{""ImportId"":""QID53_1""}","{""ImportId"":""QID57_1""}","{""ImportId"":""QID58_1""}","{""ImportId"":""QID60_1""}","{""ImportId"":""QID62_1""}","{""ImportId"":""QID63_1""}","{""ImportId"":""QID65_1""}","{""ImportId"":""QID66_1""}","{""ImportId"":""QID67_1""}","{""ImportId"":""QID69_1""}","{""ImportId"":""QID72_1""}","{""ImportId"":""QID70_1""}","{""ImportId"":""QID71_1""}","{""ImportId"":""QID74_1""}","{""ImportId"":""QID75_1""}"
+2021-08-26 13:11:40,2021-08-26 13:16:01,0,51.199.90.205,100,260,1,2021-08-26 13:16:01,R_1kN622KcaqMmNwi,,,,,53.3488006591796875,-1.4091033935546875,anonymous,EN,2,1,1,1,4,2,1,2,4,2,4,2,1,3,2,1
+2021-08-26 13:19:48,2021-08-26 13:24:50,0,5.151.46.99,100,301,1,2021-08-26 13:24:50,R_aXjkUqm7dLT0Ydb,,,,,51.6016998291015625,-0.0731964111328125,anonymous,EN,2,2,1,1,4,2,1,3,2,1,2,1,1,4,1,1
+2021-08-28 05:16:59,2021-08-28 05:19:10,0,82.132.242.250,100,130,1,2021-08-28 05:19:10,R_3KvYp13br7b1pxE,,,,,53.16510009765625,-1.48199462890625,anonymous,EN,2,1,1,1,1,1,4,1,1,1,1,1,1,1,4,
+2021-08-28 05:33:21,2021-08-28 05:35:42,0,16.162.143.149,100,140,1,2021-08-28 05:35:42,R_dcGqC0W8bAm3t61,,,,,22.2577972412109375,114.16571044921875,anonymous,EN,2,2,2,3,2,2,2,2,3,1,3,2,2,3,2,3
+2021-08-28 06:19:34,2021-08-28 06:37:18,0,113.17.224.178,100,1063,1,2021-08-28 06:37:19,R_2cnhbRB0yZLd1QP,,,,,22.282501220703125,113.5762939453125,anonymous,EN,2,1,3,1,3,1,1,5,4,4,4,1,1,3,1,1
+2021-08-28 06:49:19,2021-08-28 06:50:35,0,119.103.209.76,100,75,1,2021-08-28 06:50:35,R_AEyUOqtduI3m1qx,,,,,30.5850982666015625,114.266204833984375,anonymous,EN,2,2,3,3,3,3,3,3,4,4,3,2,3,2,4,2
+2021-08-28 06:56:34,2021-08-28 07:00:12,0,112.22.86.9,100,217,1,2021-08-28 07:00:12,R_1hy8Dgt1ClvnWcy,,,,,31.561798095703125,120.286407470703125,anonymous,EN,2,3,2,2,4,1,5,2,4,3,5,1,1,4,1,3
+2021-08-28 07:00:50,2021-08-28 07:04:02,0,112.224.65.15,100,192,1,2021-08-28 07:04:02,R_1mgA9hoGwtrjbLF,,,,,36.0659942626953125,120.369384765625,anonymous,EN,2,2,4,2,2,4,4,4,4,4,4,2,1,5,4,4
+2021-08-28 07:06:17,2021-08-28 07:08:56,0,14.111.53.134,100,158,1,2021-08-28 07:08:56,R_3khuAEee2YRKLi5,,,,,29.5688934326171875,106.557708740234375,anonymous,EN,2,2,2,1,2,1,1,5,5,5,5,1,1,2,3,4
+2021-08-28 07:25:00,2021-08-28 07:30:40,0,182.97.96.176,100,339,1,2021-08-28 07:30:40,R_z2qTRkSIjFC89ax,,,,,28.5500946044921875,115.931610107421875,anonymous,EN,2,2,2,1,5,1,4,5,5,5,5,1,1,5,5,2
+2021-08-28 08:28:48,2021-08-28 08:30:44,0,125.120.83.19,100,116,1,2021-08-28 08:30:44,R_1IvinIrPqBX543h,,,,,30.2993927001953125,120.16119384765625,anonymous,EN,2,2,1,5,4,1,2,4,5,5,2,1,1,4,2,3
+2021-08-28 09:08:02,2021-08-28 09:13:00,0,117.158.206.131,100,297,1,2021-08-28 09:13:00,R_2tm0AHau6aKNAtG,,,,,34.67999267578125,113.534393310546875,anonymous,EN,2,2,4,1,3,4,2,5,4,4,3,1,1,5,1,2
+2021-08-28 10:29:57,2021-08-28 10:31:01,0,51.199.90.205,100,64,1,2021-08-28 10:31:01,R_2UVjjqjRwaRkgiT,,,,,53.3488006591796875,-1.4091033935546875,anonymous,EN,2,2,1,1,2,2,4,2,3,1,2,2,1,2,2,2
+2021-08-28 18:52:03,2021-08-28 18:55:52,0,101.88.218.216,100,228,1,2021-08-28 18:55:52,R_27BDGep3PjFiwDY,,,,,31.0442047119140625,121.4053955078125,anonymous,EN,2,2,2,2,5,4,1,3,3,5,3,1,3,2,2,2
+2021-08-28 18:50:56,2021-08-28 18:56:08,0,117.136.88.35,100,311,1,2021-08-28 18:56:08,R_UrQfLf18vc1JyoN,,,,,28.182098388671875,113.105499267578125,anonymous,EN,2,1,1,1,4,3,1,4,2,1,2,1,1,3,1,1
+2021-08-28 18:49:57,2021-08-28 19:15:30,0,223.104.190.174,100,1533,1,2021-08-28 19:15:31,R_2CvlyMgnqQFXpqC,,,,,36.0659942626953125,120.369384765625,anonymous,EN,2,2,1,1,1,1,1,2,1,1,1,1,1,1,1,1
+2021-08-28 19:10:06,2021-08-28 19:22:13,0,106.84.175.93,100,726,1,2021-08-28 19:22:13,R_22LaLJeyA07Uzua,,,,,29.5688934326171875,106.557708740234375,anonymous,EN,2,2,2,5,5,2,4,4,4,5,4,2,1,4,2,2
+2021-08-28 19:29:23,2021-08-28 19:31:13,0,117.22.105.65,100,109,1,2021-08-28 19:31:13,R_2zJg5vHwm1lgQwJ,,,,,34.2285003662109375,108.91571044921875,anonymous,EN,2,3,4,1,3,3,1,2,1,5,4,4,1,1,3,2
+2021-08-28 19:29:49,2021-08-28 19:35:05,0,171.9.174.95,100,315,1,2021-08-28 19:35:05,R_3oSgcMKZfsfp4m4,,,,,35.1873931884765625,113.802490234375,anonymous,EN,2,2,2,4,4,5,1,4,2,5,2,2,1,5,1,2
+2021-08-29 04:32:03,2021-08-29 04:33:47,0,112.9.100.185,100,103,1,2021-08-29 04:33:47,R_3en8f8B7wHAgCwV,,,,,36.0659942626953125,120.369384765625,anonymous,EN,2,4,3,5,2,5,1,2,4,2,5,5,1,1,4,4
+2021-08-29 04:37:14,2021-08-29 04:46:07,0,183.195.95.179,100,533,1,2021-08-29 04:46:07,R_3hH2OarSJ2tI3KI,,,,,31.0442047119140625,121.4053955078125,anonymous,EN,2,1,3,5,5,3,1,3,5,2,4,1,1,3,2,3
+2021-08-29 04:42:02,2021-08-29 04:47:29,0,213.205.192.131,100,326,1,2021-08-29 04:47:30,R_2ciTJWfMz5kwFRj,,,,,53.0442047119140625,-1.53179931640625,anonymous,EN,2,2,3,1,4,2,1,4,4,5,4,1,1,4,2,3
+2021-08-29 05:16:10,2021-08-29 05:21:05,0,213.205.240.130,100,295,1,2021-08-29 05:21:06,R_Wof6yArXdPudFkt,,,,,51.5265960693359375,-0.013397216796875,anonymous,EN,2,5,2,5,4,5,1,4,4,4,5,1,1,3,1,2
+2021-08-29 06:05:17,2021-08-29 06:07:09,0,103.136.187.179,100,112,1,2021-08-29 06:07:10,R_1CygSNe84lVfvmN,,,,,22.2577972412109375,114.16571044921875,anonymous,EN,2,1,5,2,5,2,1,1,4,5,3,3,2,4,3,2
+2021-08-29 07:01:57,2021-08-29 07:05:22,0,82.0.202.53,100,204,1,2021-08-29 07:05:24,R_ag7gNrUCz0LoDg5,,,,,52.768096923828125,-1.202606201171875,anonymous,EN,2,1,2,1,4,1,1,5,3,2,2,1,2,2,2,2
+2021-08-29 08:04:58,2021-08-29 08:05:48,0,223.104.189.123,100,50,1,2021-08-29 08:05:49,R_2dDTFfqcfmVO97U,,,,,36.668304443359375,116.9971923828125,anonymous,EN,2,4,3,5,2,4,3,3,5,2,3,5,4,4,5,3
+2021-08-29 08:04:39,2021-08-29 08:10:03,0,112.9.9.140,100,324,1,2021-08-29 08:10:04,R_5Assflwn18OOuM9,,,,,36.668304443359375,116.9971923828125,anonymous,EN,2,1,1,1,5,4,1,5,5,5,5,4,1,5,5,4
+2021-08-29 08:06:48,2021-08-29 08:11:11,0,223.88.66.197,100,263,1,2021-08-29 08:11:12,R_3JsjDvgYEktDSkc,,,,,34.67999267578125,113.534393310546875,anonymous,EN,2,4,4,3,5,5,1,3,1,5,3,1,1,5,3,1
+2021-08-29 08:04:33,2021-08-29 08:11:50,0,123.147.251.85,100,437,1,2021-08-29 08:11:51,R_2CQ8D01JuHz9uMb,,,,,29.5688934326171875,106.557708740234375,anonymous,EN,2,2,1,1,5,5,5,5,5,5,5,5,1,5,5,5
+2021-08-29 08:13:10,2021-08-29 08:14:17,0,122.159.9.98,100,67,1,2021-08-29 08:14:17,R_2upPbrVoFgqWU5y,,,,,45.75,126.649993896484375,anonymous,EN,2,3,2,2,1,1,2,4,4,4,1,4,4,2,4,1
+2021-08-29 07:41:37,2021-08-29 08:27:11,0,223.104.194.38,100,2734,1,2021-08-29 08:27:12,R_1GTv7fgO7Jmf9UN,,,,,36.668304443359375,116.9971923828125,anonymous,EN,2,1,1,3,2,1,2,1,2,1,2,2,1,1,2,1
+2021-08-29 08:36:01,2021-08-29 08:37:45,0,1.57.32.179,100,103,1,2021-08-29 08:37:45,R_1F8w8ItrxZhofS3,,,,,39.98809814453125,116.28460693359375,anonymous,EN,2,4,1,4,1,1,1,1,1,2,2,3,3,3,3,3
+2021-08-29 09:31:41,2021-08-29 09:33:53,0,223.104.194.38,100,131,1,2021-08-29 09:33:54,R_1Kkj3QzwfupwvOM,,,,,36.668304443359375,116.9971923828125,anonymous,EN,2,1,2,3,3,1,5,2,5,1,1,1,2,2,3,3
+2021-08-29 09:35:52,2021-08-29 09:38:07,0,113.87.46.72,100,135,1,2021-08-29 09:38:07,R_2WHcAcAh7MRyLLS,,,,,22.53179931640625,114.13739013671875,anonymous,EN,2,2,1,1,5,1,1,1,1,3,1,3,3,5,4,3
+2021-08-30 07:38:09,2021-08-30 07:39:13,0,39.187.230.86,100,64,1,2021-08-30 07:39:14,R_21h64Xy2A5dCl24,,,,,29.1002960205078125,119.645111083984375,anonymous,EN,2,1,1,2,5,5,5,5,5,5,2,5,5,5,5,5
+2021-08-30 07:38:48,2021-08-30 07:41:50,0,110.183.40.73,100,181,1,2021-08-30 07:41:50,R_wZcMXnCLGlTawCZ,,,,,31.0442047119140625,121.4053955078125,anonymous,EN,2,1,2,1,4,1,1,2,3,4,3,1,3,2,3,4
+2021-08-30 07:43:40,2021-08-30 07:47:06,0,182.200.13.93,100,205,1,2021-08-30 07:47:06,R_1FM2EfRqhzQQbGJ,,,,,41.7805938720703125,123.431396484375,anonymous,EN,2,2,3,2,2,3,3,3,3,3,4,,4,3,3,3
+2021-08-30 07:48:57,2021-08-30 07:53:29,0,202.62.115.98,100,271,1,2021-08-30 07:53:31,R_1GvKxr4Qqz8EXDm,,,,,34.773193359375,113.72198486328125,anonymous,EN,2,2,2,2,1,4,1,4,5,2,5,1,4,1,1,4
+2021-08-30 07:52:07,2021-08-30 07:54:00,0,221.192.181.53,100,113,1,2021-08-30 07:54:02,R_30duuVoo1lFChb7,,,,,39.928497314453125,116.385009765625,anonymous,EN,2,1,1,1,5,1,1,2,4,2,2,2,5,2,5,1
+2021-08-30 08:06:04,2021-08-30 08:08:55,0,183.197.197.69,100,171,1,2021-08-30 08:08:55,R_1eqPTTEA7u79RcG,,,,,38.851104736328125,115.4879150390625,anonymous,EN,2,1,2,2,3,3,1,1,1,1,1,1,1,1,1,1
+2021-08-30 09:10:54,2021-08-30 09:15:45,0,153.36.175.211,100,291,1,2021-08-30 09:15:46,R_0MzEX9aEFH0txkt,,,,,34.1822967529296875,117.151885986328125,anonymous,EN,2,1,2,3,5,5,1,3,4,1,3,1,5,3,1,3
+2021-08-28 06:57:13,2021-08-28 07:02:05,0,1.197.238.157,95,291,0,2021-09-02 09:38:32,R_3FKeAKJmyorBUbg,,,,,,,anonymous,EN,2,1,2,2,1,1,1,1,3,5,1,5,1,1,1,
+2021-08-30 08:21:01,2021-08-30 08:23:12,0,183.208.244.119,33,130,0,2021-09-02 09:39:08,R_Z4vVLA3CYgo2iQx,,,,,,,anonymous,EN,2,4,2,2,,,,,,,,,,,,
+2021-08-30 07:38:41,2021-08-30 07:39:18,0,115.194.138.13,24,36,0,2021-09-02 09:39:09,R_5oTovQkGCVVrxsd,,,,,,,anonymous,EN,2,2,5,,,,,,,,,,,,,
+2021-08-30 03:48:42,2021-08-30 03:52:24,0,106.122.181.212,33,222,0,2021-09-02 09:39:09,R_1pnYMde4OaRUBhw,,,,,,,anonymous,EN,2,2,3,3,,,,,,,,,,,,
+2021-08-29 08:09:42,2021-08-29 08:10:29,0,36.249.208.67,19,46,0,2021-09-02 09:39:09,R_2pKml5o6REaZunk,,,,,,,anonymous,EN,2,2,,,,,,,,,,,,,,
+2021-08-29 07:35:36,2021-08-29 07:41:15,0,61.152.193.42,57,339,0,2021-09-02 09:39:12,R_1jfFPRZrFZA5cUd,,,,,,,anonymous,EN,2,2,,1,5,1,1,,,,,,,,,
+2021-08-29 03:39:04,2021-08-29 03:39:20,0,124.165.43.85,19,15,0,2021-09-02 09:39:19,R_D0OAWSxHj6YBVXH,,,,,,,anonymous,EN,2,5,,,,,,,,,,,,,,
+2021-08-28 20:29:44,2021-08-28 20:30:22,0,223.104.23.222,19,38,0,2021-09-02 09:39:19,R_2cjvcnRjT6T64rD,,,,,,,anonymous,EN,2,5,,,,,,,,,,,,,,
+2021-09-02 09:40:12,2021-09-02 09:41:09,1,,100,57,1,2021-09-02 09:41:10,R_XMNKyuN1WpiZXe9,,,,,53.3488006591796875,-1.4091033935546875,preview,EN,2,2,2,2,2,3,1,2,3,2,4,2,1,2,4,3
